@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#318](https://github.com/midudev/kings-league-project/issues/318) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-2. 🎉 Merged PR [#322](https://github.com/midudev/kings-league-project/pull/322) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-3. ❌ Closed PR [#325](https://github.com/midudev/kings-league-project/pull/325) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-4. 🎉 Merged PR [#331](https://github.com/midudev/kings-league-project/pull/331) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-5. 🎉 Merged PR [#332](https://github.com/midudev/kings-league-project/pull/332) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+1. 💪 Opened PR [#129](https://github.com/dbisu/pico-ducky/pull/129) in [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky)
+2. 🗣 Commented on [#1](https://github.com/Arsaev/ColeopteraOS/issues/1) in [Arsaev/ColeopteraOS](https://github.com/Arsaev/ColeopteraOS)
+3. ❌ Closed PR [#489](https://github.com/deepsourcelabs/good-first-issue/pull/489) in [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue)
+4. 🗣 Commented on [#362](https://github.com/vercel/swr-site/issues/362) in [vercel/swr-site](https://github.com/vercel/swr-site)
+5. ❌ Closed PR [#1352](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1352) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 <!--END_SECTION:activity-->
 
 
