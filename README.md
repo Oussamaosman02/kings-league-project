@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#191](https://github.com/localtunnel/server/pull/191) in [localtunnel/server](https://github.com/localtunnel/server)
-2. 💪 Opened PR [#129](https://github.com/dbisu/pico-ducky/pull/129) in [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky)
-3. 🗣 Commented on [#1](https://github.com/Arsaev/ColeopteraOS/issues/1) in [Arsaev/ColeopteraOS](https://github.com/Arsaev/ColeopteraOS)
-4. ❌ Closed PR [#489](https://github.com/deepsourcelabs/good-first-issue/pull/489) in [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue)
-5. 🗣 Commented on [#362](https://github.com/vercel/swr-site/issues/362) in [vercel/swr-site](https://github.com/vercel/swr-site)
+1. ❗️ Opened issue [#213](https://github.com/OWASP/owasp.github.io/issues/213) in [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)
+2. 💪 Opened PR [#191](https://github.com/localtunnel/server/pull/191) in [localtunnel/server](https://github.com/localtunnel/server)
+3. 💪 Opened PR [#129](https://github.com/dbisu/pico-ducky/pull/129) in [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky)
+4. 🗣 Commented on [#1](https://github.com/Arsaev/ColeopteraOS/issues/1) in [Arsaev/ColeopteraOS](https://github.com/Arsaev/ColeopteraOS)
+5. ❌ Closed PR [#489](https://github.com/deepsourcelabs/good-first-issue/pull/489) in [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue)
 <!--END_SECTION:activity-->
 
 
