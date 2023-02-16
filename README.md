@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#428](https://github.com/vercel/swr-site/pull/428) in [vercel/swr-site](https://github.com/vercel/swr-site)
-2. ❗️ Opened issue [#213](https://github.com/OWASP/owasp.github.io/issues/213) in [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)
-3. 💪 Opened PR [#191](https://github.com/localtunnel/server/pull/191) in [localtunnel/server](https://github.com/localtunnel/server)
-4. 💪 Opened PR [#129](https://github.com/dbisu/pico-ducky/pull/129) in [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky)
-5. 🗣 Commented on [#1](https://github.com/Arsaev/ColeopteraOS/issues/1) in [Arsaev/ColeopteraOS](https://github.com/Arsaev/ColeopteraOS)
+1. ❗️ Opened issue [#210](https://github.com/Devographics/Monorepo/issues/210) in [Devographics/Monorepo](https://github.com/Devographics/Monorepo)
+2. 💪 Opened PR [#428](https://github.com/vercel/swr-site/pull/428) in [vercel/swr-site](https://github.com/vercel/swr-site)
+3. ❗️ Opened issue [#213](https://github.com/OWASP/owasp.github.io/issues/213) in [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)
+4. 💪 Opened PR [#191](https://github.com/localtunnel/server/pull/191) in [localtunnel/server](https://github.com/localtunnel/server)
+5. 💪 Opened PR [#129](https://github.com/dbisu/pico-ducky/pull/129) in [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky)
 <!--END_SECTION:activity-->
 
 
