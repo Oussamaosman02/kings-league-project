@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Oussamaosman02/neocli/pull/2) in [Oussamaosman02/neocli](https://github.com/Oussamaosman02/neocli)
-2. ❗️ Opened issue [#210](https://github.com/Devographics/Monorepo/issues/210) in [Devographics/Monorepo](https://github.com/Devographics/Monorepo)
-3. 💪 Opened PR [#428](https://github.com/vercel/swr-site/pull/428) in [vercel/swr-site](https://github.com/vercel/swr-site)
-4. ❗️ Opened issue [#213](https://github.com/OWASP/owasp.github.io/issues/213) in [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)
-5. 💪 Opened PR [#191](https://github.com/localtunnel/server/pull/191) in [localtunnel/server](https://github.com/localtunnel/server)
+1. ❗️ Opened issue [#17](https://github.com/azharimm/phone-specs-api/issues/17) in [azharimm/phone-specs-api](https://github.com/azharimm/phone-specs-api)
+2. 🎉 Merged PR [#2](https://github.com/Oussamaosman02/neocli/pull/2) in [Oussamaosman02/neocli](https://github.com/Oussamaosman02/neocli)
+3. ❗️ Opened issue [#210](https://github.com/Devographics/Monorepo/issues/210) in [Devographics/Monorepo](https://github.com/Devographics/Monorepo)
+4. 💪 Opened PR [#428](https://github.com/vercel/swr-site/pull/428) in [vercel/swr-site](https://github.com/vercel/swr-site)
+5. ❗️ Opened issue [#213](https://github.com/OWASP/owasp.github.io/issues/213) in [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)
 <!--END_SECTION:activity-->
 
 
