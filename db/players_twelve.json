@@ -1,10 +1,10 @@
 [
   {
     "role": "Delantero",
-    "firstName": "Mauricio",
-    "lastName": "del Castillo",
+    "firstName": "M.",
+    "lastName": "Del Castillo",
     "image": "kunisports-Kunisports_96.webp",
-    "name": "Mauricio del Castillo",
+    "name": "M. Del Castillo",
     "id": "kunisports-Kunisports_96",
     "team": {
       "id": "kunisports",
@@ -85,10 +85,10 @@
   },
   {
     "role": "Medio",
-    "firstName": "Armando",
+    "firstName": "Mandi",
     "lastName": "Sosa",
     "image": "rayo-barcelona-RayoBCN_3.webp",
-    "name": "Armando Sosa",
+    "name": "Mandi Sosa",
     "id": "rayo-barcelona-RayoBCN_3",
     "team": {
       "id": "rayo-barcelona",
