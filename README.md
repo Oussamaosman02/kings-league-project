@@ -11,7 +11,7 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/darmiel/twitch-poll-overlay/issues/29) in [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay)
+1. ❗ Opened issue [#29](https://github.com/darmiel/twitch-poll-overlay/issues/29) in [darmiel/twitch-poll-overlay](https://github.com/darmiel/twitch-poll-overlay)
 2. ❗️ Opened issue [#17](https://github.com/azharimm/phone-specs-api/issues/17) in [azharimm/phone-specs-api](https://github.com/azharimm/phone-specs-api)
 3. 🎉 Merged PR [#2](https://github.com/Oussamaosman02/neocli/pull/2) in [Oussamaosman02/neocli](https://github.com/Oussamaosman02/neocli)
 4. ❗️ Opened issue [#210](https://github.com/Devographics/Monorepo/issues/210) in [Devographics/Monorepo](https://github.com/Devographics/Monorepo)
